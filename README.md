@@ -1,5 +1,5 @@
 # BitcoinTicker
-Bitcoin Ticker iOS App will fetch the bitcoin value based on selected currency.
+Bitcoin Ticker iOS App will fetch the current bitcoin price based on selected currency.
 
 API used to fetch the Bitcoin details: https://apiv2.bitcoinaverage.com/indices/global/ticker/BTC
 
