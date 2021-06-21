@@ -9,6 +9,8 @@ API used to fetch the Bitcoin details: https://apiv2.bitcoinaverage.com/indices/
 
 **SwiftyJSON:** To parse the response
 
+**Note:** Since it is a Cocoapods project, after cloning or downloading zip, open project **"BitcoinTicker.xcworkspace"**
+
 ## Finished App
 ![Finished App](http://i.giphy.com/l0HlQGzz2MQCKIBI4.gif)
 
